@@ -1,0 +1,12 @@
+Day;City;Product;Quantity
+1;MTY;A;10
+1;MTY;B;8
+1;GDL;A;6
+1;GDL;B;12
+1;CDMX;C;6
+2;MTY;A;11
+2;MTY;B;12
+2;GDL;A;4
+2;GDL;B;7
+2;CDMX;A;9
+2;CDMX;C;13
