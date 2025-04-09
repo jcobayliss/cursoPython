@@ -1,7 +1,7 @@
-Product,Sales,Quantity
-A,100,10
-B,150,20
-A,200,15
-B,210,17
-C,300,30
-C,270,21
+City,Product,Sales,Quantity
+MTY,A,100,10
+MTY,B,150,20
+GDL,A,200,15
+GDL,B,210,17
+CDMX,C,300,30
+CDMX,C,270,21
